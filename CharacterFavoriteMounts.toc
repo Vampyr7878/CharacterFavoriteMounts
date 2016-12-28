@@ -1,0 +1,7 @@
+## Interface: 60100
+## Title: Character Favorite Mounts
+## Notes: Your favourite mounts, pets and pet battle teams can be set per character instead of account-wide.
+## Author: Vampyr78
+## Version: 2.1
+## SavedVariablesPerCharacter: characterFavoriteMountsList, characterFavoritePetsList, characterFavoritePetsIDs, characterFavoritePetsAbilities
+CharacterFavoriteMounts.lua
